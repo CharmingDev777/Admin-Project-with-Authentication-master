@@ -1,0 +1,1 @@
+"C:\Program Files\MongoDB\Server\5.0\bin\mongod.exe"  -dbpath "F:\TASK\8.29\basic_theme\starter-antd-admin-crud-auth-mern\data\mongod data"
